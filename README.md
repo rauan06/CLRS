@@ -2,13 +2,9 @@
 
 ![cover](./docs//assets/cover.png)
 
-## notice
+## Go implement of the pseudocode of CLRS
 
-this repository stops updating at 2024/11/29. If you want to take over it, you can create PR.
-
-## cpp implement of the pseudocode of CLRS
-
-**[https://github.com/icefox-saber/CLRS-CPP](https://github.com/icefox-saber/CLRS-CPP)**
+**[https://github.com/icefox-saber/CLRS-CPP](https://github.com/rauan06/CLRS-GO)**
 
 ## Getting Started
 
